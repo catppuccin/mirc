@@ -36,6 +36,8 @@
 
 ## Usage
 
+**Note:** The format of the mIRC configuration file is not very human-friendly, so be sure to make a backup of your config before proceeding.
+
 <details>
 <summary>
 <h3>If you do <b>NOT</b> want to retain the themes you already have (including the default ones)</h3>
