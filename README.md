@@ -85,6 +85,11 @@ n8=3022366,16045773,14475509,13487602,15188725,16230091,11045875,11313387,889343
 
 </details>
 
+## 🙋 FAQ
+
+-	Q: **_"Why is the upper UI not styled?"_**\
+	A: mIRC doesn't support styling the upper UI components, so theming the entire application would likely require some nasty workaround such as DLL injection which I wanted to avoid.
+
 ## 💝 Thanks to
 
 - [lemonsh](https://github.com/lemon-sh)
