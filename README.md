@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/lemon-sh/mirc/stargazers"><img src="https://img.shields.io/github/stars/lemon-sh/mirc?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/lemon-sh/mirc/issues"><img src="https://img.shields.io/github/issues/lemon-sh/mirc?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/lemon-sh/mirc/contributors"><img src="https://img.shields.io/github/contributors/lemon-sh/mirc?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/mirc/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/mirc?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/mirc/issues"><img src="https://img.shields.io/github/issues/catppuccin/mirc?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/mirc/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/mirc?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
