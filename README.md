@@ -36,7 +36,7 @@
 
 ## Usage
 
-**Note:** The format of the mIRC configuration file is not very human-friendly, so be sure to make a backup of your config before proceeding.
+**Note:** The format of the mIRC configuration file is quite fragile, so be sure to make a backup of your config **and close mIRC** before proceeding.
 
 <details>
 <summary>
